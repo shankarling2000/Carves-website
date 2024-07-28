@@ -143,7 +143,7 @@ a:hover {
   color: var(--p-color);
   font-size: var(--custom-link-font-size);
   font-weight: var(--font-weight-bold);
-  text-transform: uppercase;
+  /* text-transform: uppercase; */
   position: relative;
 }
 
